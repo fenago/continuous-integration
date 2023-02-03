@@ -5,6 +5,7 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
+
 # Continuous Integration
 
 _Create workflows that enable you to use Continuous Integration (CI) for your projects._
@@ -125,9 +126,7 @@ If the checks don't appear or if the checks are stuck in progress, there's a few
 ### :keyboard: Activity: Fix the test
 
 1. Update the code in the `ci` branch to get the test to pass. You need to look something like this:
-   ```markdown
-   _underscore_
-   ```
+
 1. **Commit changes**.
 1. Wait about 20 seconds then refresh this page for the next step.
 
